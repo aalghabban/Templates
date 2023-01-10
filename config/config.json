@@ -1,0 +1,16 @@
+{
+  "ID": "1",
+  "AppName": "Nafar",
+  "Version": "1.0.0",
+  "Port": 3000,
+  "DbConnection": "mongodb://127.0.0.1:27017/nafar",
+  "EnableHandshake": true,
+  "Handshake": {
+    "Nafar": "Hello world I'm a life.."
+  },
+  "SSL": {
+    "IsEnabled": true,
+    "Key": "./config/private.key",
+    "Cert": "./config/certificate.crt"
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "Code": 1200,
+    "HttpCodeStatus": 200,
+    "IsError": false,
+    "IsTechnicalError": false,
+    "DeveloperMessage": "The request was processed correctly",
+    "HelpLink": "https://nafar.Microkhwarizm.com/api/responseCode/1200",
+    "Property": null,
+    "Unique": false,
+    "UsersMessages": [
+      {
+        "Language": "EN",
+        "Message": "The request was processed correctly"
+      }
+    ],
+    "Data": null
+  },
+  
+  {
+    "Code": 1500,
+    "HttpCodeStatus": 500,
+    "IsError": false,
+    "IsTechnicalError": true,
+    "DeveloperMessage": "sorry we're having some technical issues right now, we have notify the mony who wrote the code..",
+    "HelpLink": "https://nafar.Microkhwarizm.com/api/TechnicalError",
+    "Property": null,
+    "Unique": false,
+    "UsersMessages": [
+      {
+        "Language": "EN",
+        "Message": "sorry we're having some technical issues right now, we have notify the mony who wrote the code.."
+      }
+    ],
+    "Data": null
+  }
+]
